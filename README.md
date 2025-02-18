@@ -33,7 +33,7 @@ Follow these steps to run the project on your local machine:
 1. **Clone the repository**  
    Open a terminal and run:
    ```sh
-   git clone https://github.com/your-username/quiz-game.git
+   git clone https://github.com/snehah13/quiz-game.git
    cd quiz-game
 2.Install Python (if not installed)
 Download and install Python from python.org.
