@@ -40,5 +40,9 @@ Download and install Python from python.org.
 
 3.Run the Python script
 Execute the following command:
+sh
 python quiz_game.py
 
+### Author
+*sneha H*  
+GitHub: [snehah13](https://github.com/snehah13)
